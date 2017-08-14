@@ -1,0 +1,5 @@
+multiply 9
+add 7
+divide
+subtract 1
+apply 5

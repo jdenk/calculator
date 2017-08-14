@@ -1,0 +1,5 @@
+multiply 9
+add 7
+nuts 12
+subtract 1
+apply 5
